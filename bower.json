@@ -1,0 +1,38 @@
+{
+  "name": "jquery-media-js",
+  "version": "0.99.0",
+  "homepage": "http://jquery.malsup.com/media/",
+  "authors": [
+    {"name": "M. Alsup"}
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malsup/media"
+  },
+  "description": "The jQuery Media Plugin supports unobtrusive conversion of standard markup into rich media content. It can be used to embed virtually any media type, including Flash, Quicktime, Windows Media Player, Real Player, MP3, Silverlight, PDF and more, into a web page. The plugin converts an element (usually an <a>) into a <div> which holds the object, embed or iframe tags neccessary to render the media content.",
+  "main": "jquery.media.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "media",
+    "js",
+    "video",
+    "preview",
+    "media",
+    "type",
+    "embed"
+  ],
+  "license": ["MIT", "GPL"],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

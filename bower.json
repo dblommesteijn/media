@@ -1,6 +1,6 @@
 {
   "name": "jquery-media-js",
-  "version": "0.99",
+  "version": "0.99.0",
   "homepage": "http://jquery.malsup.com/media/",
   "authors": [
     "M. Alsup"
@@ -27,5 +27,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
 }
